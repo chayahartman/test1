@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\רותי גאוה\.metadata\.plugins\org.eclipse.jdt.core
+686844045.index
+2872044937.index
